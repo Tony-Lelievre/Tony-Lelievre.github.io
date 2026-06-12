@@ -191,6 +191,7 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
  	<li>(with C. Chipot, P. Gkeka, et G. Stoltz) <i>Equilibrium and Nonequilibrium Methods for Free-Energy Calculations With Molecular Dynamics</i>, In: Comprehensive Computational Chemistry, Vol. 3, p.384-400, (2024).</li>
  	<li>(with D. Perez) <i>Recent advances in Accelerated Molecular Dynamics Methods: Theory and Applications</i>, In: Comprehensive Computational Chemistry, Vol. 3, p.360-383, (2024).</li>
  	<li>(with Y. Conjungo Taumhas, G. Dusson, V. Ehrlacher, and F. Madiot) <i>An Application of Reduced Basis Methods to Core Computation in APOLLO3</i>, <a href="https://arxiv.org/abs/2311.13902">https://arxiv.org/abs/2311.13902</a> .</li>
+ 	<li>(with Y. Conjungo Taumhas, G. Dusson, V. Ehrlacher, and F. Madiot) <i>An Application of Reduced Basis Methods to Core Computation in APOLLO3</i>, <a href="https://arxiv.org/abs/2311.13902">https://arxiv.org/abs/2311.13902</a> .</li>
 </ul>
 
 <hr width="80%" />
