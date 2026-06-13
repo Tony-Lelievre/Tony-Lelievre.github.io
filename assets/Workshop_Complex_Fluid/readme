@@ -1,0 +1,3 @@
+Changer les droits du répertoire :
+chmod u+r
+chmod o+r
