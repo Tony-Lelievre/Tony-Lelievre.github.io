@@ -1,0 +1,213 @@
+---
+layout: home
+cover-img: /assets/images/coriolis3.jpg
+---
+
+### CEMRACS 2013. Modéliser et simuler la complexité: approches stochastiques et déterministes
+
+#### 22 Juillet 2013 - 30 Août 2013
+
+<center>
+<a href="Affiche-Cemracs.pdf"><img style="border: 0px solid ; width: 303px; height: 422px;" alt="" src="../../assets/CEMRACS/Affiche-Cemracs.gif"></a>
+</center>
+
+The <a href="http://smai.emath.fr/cemracs/cemracs13/">official website is now opened</a>. More details on the projects and the registration procedure there.
+
+#### Organisateurs:
+* <a href="http://www.iecn.u-nancy.fr/%7Echampagn/">Nicolas Champagnat</a>
+* <a href="http://cermics.enpc.fr/%7Elelievre/">Tony Lelièvre</a>
+* <a href="http://www.ec-nantes.fr/version-francaise/pratique/annuaire/m-nouy-anthony-104371.kjsp">Anthony Nouy</a>
+
+Comme chaque année, le CEMRACS aura lieu au <a href="http://www.cirm.univ-mrs.fr/index.html/">CIRM</a>.
+
+L'objectif de ce CEMRACS est de s'intéresser aux modélisations et aux méthodes numériques&nbsp; qui <span style="font-style: italic;">combinent des approches déterministes </span><span style="font-style: italic;">et des approches stochastiques</span>.
+Il apparaît en effet que les problèmes relevant de cette double
+compétence (probabilités, et analyse numérique déterministe) sont de
+plus en plus nombreux, et les formations des mathématiciens appliquées
+n'y sont souvent pas bien adaptées. Un des buts du CEMRACS est donc de
+favoriser des échanges entre diverses communautés de mathématiciens
+appliqués, autour de problèmes industriels ou de problèmes provenant
+d'autres champs scientifiques (physique, chimie, biologie).<br>
+<br>
+Cette thématique est actuellement au coeur de nombreuses problématiques
+industrielles&nbsp; (la propagation des incertitudes, la modélisation à
+l'échelle moléculaire, etc...), et semble aussi prendre une place de
+plus en plus importante dans plusieurs champs scientifiques en dehors
+des mathématiques appliquées (modélisation en biologie, chimie
+moléculaire, physique statistique computationnelle, etc...).<br>
+
+<p><a href="../../assets/CEMRACS/pres_CEMRACS_2013_web.pdf">Présentation scientifique du CEMRACS</a><br>
+</p>
+<p>La première semaine (du 22 juillet au 26 juillet 2013) sera
+consacrée à une série de cours et d'exposés. Les cours seront donnés
+par:</p>
+<ul>
+  <li>Albert Cohen : Approximation non-linéaire pour les problèmes en grande dimension</li>
+  <li>Josselin Garnier : Evénements rares: modèles et simulations</li>
+  <li>Gabriel Lord :&nbsp; Equations aux dérivées partielles stochastiques</li>
+  <li>Félix Otto : Homogénéisation stochastique et matériaux aléatoires</li>
+  <li>Gilles Pagès : Quantification et méthodes quasi Monte Carlo</li>
+</ul>Slides for the computational facilities:<br>
+<ul>
+  <li><a href="slides/Cluster_CERMICS.pdf">Cluster_CERMICS.pdf</a></li>
+  <li><a href="slides/Mesocentre.pdf">Mesocentre.pdf<br>
+    </a></li>
+</ul>
+Slides for the special event "Mathématiques pour la planète Terre":<br>
+<ul>
+  <li><a href="slides/MathsInTerre-CEMRACS.pdf">Présentation générale</a></li>
+  <li><a href="slides/Ern.pdf">Alexandre Ern</a><br>
+  </li>
+  <li><a href="slides/Meleard.pdf">Sylvie Méléard</a></li>
+</ul>
+Slides for the lectures and contributed talks:<br>
+<ul>
+
+  <li><a href="slides/Arlot.pdf">Sylvain Arlot</a></li>
+  
+  <li><a href="slides/Auroux.pdf">Didier Auroux</a><br>
+
+  </li>
+
+
+  
+  <li>Josselin Garnier <a href="slides/Garnier_1.pdf">Part 1</a>, <a href="slides/Garnier_2.pdf">Part 2</a></li>
+
+  
+  <li><a href="slides/Khoromskij.pdf">Boris Khormoskij</a><br>
+
+  </li>
+
+  
+  <li><a href="slides/Lebrun.pdf">Régis Lebrun</a></li>
+  <li><a href="slides/Otto.pdf">Félix Otto</a><br>
+  </li>
+
+
+  
+  <li><a href="slides/Rozza.pdf">Gianluiggi Rozza</a></li>
+
+</ul>
+
+
+
+<br>
+Slides for the seminars:<br>
+<ul>
+  <li><a href="slides/Goudenege.pdf">Ludovic Goudenège</a></li>
+  <li><a href="slides/Iooss.pdf">Bertrand Iooss</a></li>
+  <li><a href="slides/Ehrlacher.pdf">Virginie Ehrlacher</a></li>
+  <li><a href="slides/Boyaval.pdf">Sébastien Boyaval</a></li>
+  <li><a href="slides/Billaud_Friess.pdf">Marie Billaud-Friess</a></li>
+  <li><a href="slides/Rousset.pdf">Mathias Rousset</a></li>
+  <li><a href="slides/Jodeau.pdf">Magali Jodeau</a></li>
+  <li><a href="slides/Legoll.pdf">Frédéric Legoll</a></li>
+  <li><a href="slides/Giorla.pdf">Jean Giorla</a></li>
+  <li><a href="slides/Mertz.pdf">Laurent Mertz</a></li>
+  <li><a href="slides/Aristoff.pdf">David Aristoff</a></li>
+  <li><a href="slides/Bossy.pdf">Mireille Bossy</a><br>
+  </li>
+  <li><a href="slides/Soulard.pdf">Olivier Soulard</a></li>
+  <li><a href="slides/Delestre.pdf">Olivier Delestre</a></li>
+  <li>Matthew Dobson<br>
+  </li>
+  <li><a href="slides/Kratz.pdf">Peter Kratz</a></li>
+  <li>Gabriel Stoltz<br>
+  </li>
+  <li><a href="slides/Guillard.pdf">Hervé Guillard</a></li>
+  <li><a href="slides/Brehier.pdf">Charles-Edouard Bréhier</a></li>
+  <li>Emmanuel Audusse</li>
+  <li>Boniface Nkonga<br>
+  </li>
+
+
+
+
+</ul>
+<br>
+<br>
+<div style="text-align: center;"><img style="width: 400px; height: 267px;" alt="" src="../../assets/CEMRACS/Bastide.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img style="width: 278px; height: 267px;" alt="" src="../../assets/CEMRACS/bone.jpg"><br>
+</div>
+<p style="text-align: center; color: rgb(51, 102, 255);"><big><big>Nos partenaires</big></big></p><br>
+<table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 255px; height: 178px;" alt="" src="../../assets/CEMRACS/AMIES.jpg"></td>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 151px; height: 77px;" alt="" src="../../assets/CEMRACS/ANR.gif"><br>
+      <br>
+      <img style="width: 123px; height: 76px;" alt="" src="../../assets/CEMRACS/Mathsterre.jpg"><br>
+</td>
+      <td style="vertical-align: top; text-align: center;"><br>
+      <img style="width: 159px; height: 144px;" alt="" src="../../assets/CEMRACS/cnrs.jpg"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><a href="http://www.agence-maths-entreprises.fr/a/?q=fr">Labex AMIES</a><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;"><a href="http://mathsinterre.fr/">ARP MATHématiqueS en INteractions pour la TERRE</a><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;"><a href="http://www.cnrs.fr/">CNRS</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><br>
+      <img style="width: 200px; height: 73px;" alt="" src="../../assets/CEMRACS/INRIA.png"></td>
+      <td style="vertical-align: top; text-align: center;"><br>
+      <img style="width: 438px; height: 85px;" alt="" src="../../assets/CEMRACS/MMCD.png"><br>
+</td>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 138px; height: 126px;" alt="" src="../../assets/CEMRACS/SMAI.gif"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><a href="http://www.inria.fr/">INRIA</a><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;"><a href="http://www.univ-paris-est.fr/fr/labex-mmcd-modelisation-experimentation-pour-la-construction-durable/">Labex MMCD</a><br>
+</td>
+      <td style="vertical-align: top; text-align: center;"><a href="http://smai.emath.fr/">SMAI</a><br>
+      </td>
+    </tr><tr>
+      <td style="vertical-align: top; text-align: center;"><br>
+      <img style="width: 122px; height: 50px;" alt="" src="../../assets/CEMRACS/logo_momas_new.png"><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 84px; height: 107px;" alt="" src="../../assets/CEMRACS/ENPC.png"><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 112px; height: 112px;" alt="" src="../../assets/CEMRACS/Labex_Bezout.png"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><a href="http://www.ljll.math.upmc.fr/cances/gdrmomas/">GNR MoMaS</a><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;"><a href="http://www.enpc.fr">Ecole des Ponts ParisTech</a><br>
+      </td>
+      <td style="vertical-align: top; text-align: center;"><a href="http://www.univ-paris-est.fr/fr/bezout-modeles-et-algorithmes-du-discret-au-continu/">Labex Bezout</a><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><br>
+      <img style="width: 199px; height: 58px;" alt="" src="../../assets/CEMRACS/ixcore.png">
+      </td>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 201px; height: 101px;" alt="" src="../../assets/CEMRACS/mesocentre.gif"><br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+      <div style="text-align: center;"><a href="http://www.ixcore.com/">Fondation IXCore</a></div>
+
+      </td>
+      <td style="vertical-align: top; text-align: center;"><a href="http://cbrl.up.univ-mrs.fr/%7Emesocentre">Mesocentre Aix Marseille Université</a><br>
+      </td>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
