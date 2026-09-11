@@ -1,0 +1,19 @@
+/* Give long academic content more room on desktop displays. */
+@media (min-width: 992px) {
+  main.container-md {
+    max-width: 92%;
+  }
+
+  main.container-md > .row > [class*="col-"] {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 0;
+  }
+}
+
+/* Keep line lengths comfortable on very wide screens. */
+@media (min-width: 1740px) {
+  main.container-md {
+    max-width: 1600px;
+  }
+}
