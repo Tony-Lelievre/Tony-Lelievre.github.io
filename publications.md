@@ -39,7 +39,7 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
  	<li><i>Optimal error estimate for the CONNFFESSIT approach in a simple case</i>, Computers and Fluids, <strong>33</strong>, 815-820, (2004).</li>
  	<li>(with B. Jourdain and C. Le Bris) <i>Existence of solution for a micro-macro model of polymeric fluid : the FENE model</i>, Journal of Functional Analysis, <strong>209</strong>, 162-193, (2004).</li>
  	<li>(with B. Jourdain and C. Le Bris) <i>On a variance reduction technique for micro-macro simulations of polymeric fluids</i>, Journal of Non-Newtonian Fluid Mechanics, <strong>122</strong>, 91-106, (2004).</li>
- 	<li>(with F. Dubois) <i>Efficient pricing of Asian options by the PDE approach,</i> Journal of Computational Finance, <strong>8</strong>(2), 55-64, (2005). See also <a href="assets/rapports/Asia.tar.gz">the program in C</a>, implemented in <a href="http://www-rocq.inria.fr/mathfi/Premia/index.html">Premia</a>, and some first attempts on the subject (<a href="assets/rapports/RapportAsia.pdf">ps</a> in French).</li>
+  <li>(with F. Dubois) <i>Efficient pricing of Asian options by the PDE approach,</i> Journal of Computational Finance, <strong>8</strong>(2), 55-64, (2005). See also <a href="assets/rapports/Asia.tar.gz">the program in C</a>, implemented in <a href="http://www-rocq.inria.fr/mathfi/Premia/index.html">Premia</a>, and some first attempts on the subject (<a href="assets/rapports/RapportAsia.ps">ps</a> in French).</li>
  	<li>(with J.P. Croisille, A. Ern et J. Proft) <i>Analysis and simulation of a coupled hyperbolic/parabolic model problem</i>, Journal of Numerical Mathematics, <strong>13</strong>(2), 81-156, (2005). See also <a href="assets/rapports/Hyp_Par_Ref_Solution.tar.gz">the reference solutions files</a>.</li>
  	<li>(with B. Jourdain and C. Le Bris) <i>An elementary argument regarding the long-time behaviour of the solution to a stochastic differential equation</i>, Annals of Craiova University, Mathematics and Computer Science series, <strong>32</strong>, 39-47, (2005).</li>
  	<li>(with B. Jourdain, C. Le Bris and F. Otto) <em>Long-time asymptotics of a multiscale model for polymeric fluid flows</em>, Archive for Rational Mechanics and Analysis, <strong>181</strong>(1), 97-148, (2006).</li>
@@ -93,7 +93,7 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
  	<li>(with F. Casenave and A. Ern) <em>A nonintrusive Reduced Basis Method applied to aeroacoustic simulations</em>, Advances in Computational Mathematics, <strong>41</strong>, 961-986, (2015).</li>
  	<li>(with D. Aristoff and G. Simpson) <em>The parallel replica method for simulating long trajectories of Markov chains</em>, AMRX, <strong>2</strong>, 332-352, (2014).</li>
  	<li>(with J. Comer, J.C. Gumbart, J. Hénin, A. Pohorille and C. Chipot), <em>The adaptive biasing force method: everything you always wanted to know, but were afraid to ask</em>, The Journal of Physical Chemistry B, <strong>119</strong>(3), 1129-1151, (2015).</li>
- 	<li>(with C.E. Bréhier and M. Rousset) <em>Analysis of Adaptive Multilevel Splitting algorithms in an idealized case</em>, ESAIM P&amp;S, <strong>19</strong>, 361 - 394, (2015).</li>
+  <li>(with C.E. Bréhier and M. Rousset) <em>Analysis of Adaptive Multilevel Splitting algorithms in an idealized case</em>, ESAIM P&amp;S, <strong>19</strong>, 361 – 394, (2015).</li>
  	<li>(with F. Nier) <em>Low temperature asymptotics for Quasi-Stationary Distributions in a bounded domain</em>, Analysis &amp; PDE, <strong>8</strong>(3), 561-628, (2015).</li>
  	<li>(with A. Binder and G. Simpson) <em>A Generalized Parallel Replica Dynamics</em>, Journal of Computational Physics, <strong>284</strong>, 595–616, (2015).</li>
  	<li>(with H. Alrachid) <em>Long-time convergence of an adaptive biasing force method: Variance reduction by Helmholtz projection</em>, SMAI Journal of Computational Mathematics, <strong>1</strong>, 55-82, (2015).</li>
@@ -114,7 +114,7 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
  	<li>(with G. Fort, B. Jourdain and G. Stoltz) <em>Convergence and efficiency of adaptive importance sampling techniques with partial biasing</em>, Journal of Statistical Physics, <strong>171</strong>(2), 220-268 (2018).</li>
  	<li>(avec L.Pillaud-Vivien et J. Reygner) <em>Central Limit Theorem for stationary Fleming-Viot particle systems in finite spaces</em>, ALEA Latin American Journal of Probability and Mathematical Statistics, <strong>15</strong>, 1163-1182 (2018).</li>
  	<li>(with F. Hédin) <em>gen.parRep: a first implementation of the Generalized Parallel Replica dynamics for the long time simulation of metastable biochemical systems</em>, Computer Physics Communications,  <strong>239</strong>, 311-324, (2019). The code is available on <a href="https://gitlab.inria.fr/parallel-replica/gen.parRep">github</a>.</li>
- 	<li>(with L.J.S. Lopes) <em>Analysis of the Adaptive Multilevel Splitting method with the alanine di-peptide's isomerization</em>, Journal of Computational Chemistry,  <strong>40</strong>(11), 1198-1208, (2019).</li>
+  <li>(with L.J.S. Lopes) <em>Analysis of the Adaptive Multilevel Splitting method with the alanine di-peptide’s isomerization</em>, Journal of Computational Chemistry,  <strong>40</strong>(11), 1198-1208, (2019).</li>
  	<li>(with  G. Di Gesù, D. Le Peutrec and B. Nectoux) Sharp asymptotics of the first exit point density, Annals of PDE, <strong>5</strong>(1), (2019).</li>
  	<li>(with C.-E. Bréhier) <em>On a new class of score functions to estimate tail probabilities of some stochastic processes with Adaptive Multilevel Splitting</em>, Chaos: An Interdisciplinary Journal of Nonlinear Science, <strong>29</strong>(3), 033126, (2019).</li>
  	<li>(with G. Di Gesù, D. Le Peutrec and B. Nectoux) <em>The exit from a metastable state: concentration of the exit point distribution on the low energy saddle points, part 1</em>, Journal de Mathématiques Pures et Appliquées, <strong>138</strong>, 242-306, (2020).</li>
@@ -149,11 +149,11 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
  	<li>(with R. Santet and G. Stoltz) <i>Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function</i>, Foundations of Computational Mathematics, <strong>26</strong>, 1-74, (2026).</li>
  	<li>(with M. Gabrié, C. Schönle, and G. Stoltz) <i>Sampling metastable systems using collective variables and Jarzynski-Crooks paths</i>, Journal of Computational Physics, <b>527</b>, 113806, (2025).</li>
  	<li>(with G.A. Pavliotis, G. Robin, R. Santet and G. Stoltz) <i>Optimizing the diffusion coefficient of overdamped Langevin dynamics</i>, Mathematics of Computation, <strong>95</strong>, 1829-1886, (2026).</li>
- 	<li>(with D. Le Peutrec and B. Nectoux) <i>Eyring-Kramers exit rates for the overdamped Langevin dynamics: the case with saddle points on the boundary</i>, Journal de l'Ecole Polytechnique - Mathématiques, <b>12</b>, 881-982, (2025).</li>
+  <li>(with D. Le Peutrec and B. Nectoux) <i>Eyring-Kramers exit rates for the overdamped Langevin dynamics: the case with saddle points on the boundary</i>, Journal de l’Ecole Polytechnique – Mathématiques, <b>12</b>, 881-982, (2025).</li>
  	<li>(with L. Journel and J. Reygner) <i>Condensation in Fleming-Viot particle systems with fast selection mechanism</i>, ALEA Latin American Journal of Probability and Mathematical Statistics, <strong>22</strong>, 825-857, (2025).</li>
  	<li>(with R. Santet and G. Stoltz) <i>Improving sampling by modifying the effective diffusion</i>, Journal of Computational Physics, <strong><span class="anchor-text-container"><span class="anchor-text">541</span></span></strong>, 114313, (2025).</li>
  	<li>(with M. Chak, G. Stoltz, and U. Vaes) <i>Optimal importance sampling for overdamped Langevin dynamics</i>, Bernoulli,  <strong>32</strong>(3): 1827-1852, (2026).</li>
- 	<li>(with N. Blassel and G. Stoltz) <i>Shape optimization of metastable states,</i> to appear in Mathematical Models and Methods in Applied Sciences, <a href="https://arxiv.org/abs/2507.12575">https://arxiv.org/abs/2507.12575</a> .</li>
+  <li>(with N. Blassel and G. Stoltz) <i>Shape optimization of metastable states,</i> Mathematical Models and Methods in Applied Sciences, <strong>36</strong>(11), 2397-2475 (2026).</li>
  	<li>(with X. Lin and P. Monmarché) <i>Convergence rates for an Adaptive Biasing Potential scheme from a Wasserstein optimization perspective</i>, Nonlinearity, <strong>39</strong>(4), 045016, (2026).</li>
  	<li>(with D. Carbone, M. Gabrié, and C. Schönle) <em>Efficient Monte-Carlo sampling of metastable systems using non-local collective variable updates</em>, Journal of Chemical Physics, <strong>164</strong>(15), 154107, (2026).</li>
 </ul>
@@ -199,11 +199,14 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
 ### Preprints
 
 <ul>
- 	<li>(with M. Rachid, and G. Stoltz) <i>A spectral approach to the narrow escape problem in the disk</i> <a href="https://arxiv.org/abs/2401.06903">https://arxiv.org/abs/2401.06903</a> .</li>
+  <li>(with M. Rachid, and G. Stoltz) <i>A spectral approach to the narrow escape problem in the disk,</i> <a href="https://arxiv.org/abs/2401.06903">https://arxiv.org/abs/2401.06903</a> .</li>
  	<li>(with N. Champagnat, M. Ramil, J. Reygner, and D. Villemonais) <i>Quasi-stationary distribution for kinetic SDEs with low regularity coefficients</i>, <a href="https://arxiv.org/abs/2410.01042">https://arxiv.org/abs/2410.01042</a> .</li>
  	<li>(with N. Blassel and G. Stoltz) <i>Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains</i>, <a href="https://arxiv.org/abs/2501.16082">https://arxiv.org/abs/2501.16082</a> .</li>
+  <li>(with T. Pigeon and G. Stoltz) <em>Approximating committor functions: Objective functions and training data sampling</em>, <a href="https://arxiv.org/abs/2607.21425">https://arxiv.org/abs/2607.21425</a> .</li>
+  <li>(with Louis Carillo, Thomas Normand, Gabriel Stoltz, and Urbain Vaes) <em>The narrow escape problem in arbitrary dimension</em>, <a href="https://arxiv.org/abs/2608.02212">https://arxiv.org/abs/2608.02212</a> .</li>
+  <li>(with Louis Carillo, Thomas Normand, and Urbain Vaes) <em>A spectral approach to the narrow escape problem in two-dimensional domains</em>, <a href="https://arxiv.org/abs/2608.05007">https://arxiv.org/abs/2608.05007</a> .</li>
 </ul>
 
 <hr width="80%" />
 
-<div><i>Last update: May 2nd, 2026.</i></div>
+<div><i>Last update: August 6th, 2026.</i></div>
