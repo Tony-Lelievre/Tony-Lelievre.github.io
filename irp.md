@@ -17,7 +17,7 @@ full-width: true
       <dl class="irp-facts">
         <div class="irp-fact">
           <dt>Principal Investigators</dt>
-          <dd><a href="https://www.ks.uiuc.edu/~chipot/">Christophe Chipot</a> and <a href="https://tony-lelievre.github.io">Tony Lelièvre</a></dd>
+          <dd><a href="https://lia-uiuc.cnrs.fr/">Christophe Chipot</a> and <a href="https://tony-lelievre.github.io">Tony Lelièvre</a></dd>
         </div>
         <div class="irp-fact">
           <dt>Partners</dt>
