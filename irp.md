@@ -17,7 +17,7 @@ full-width: true
       <dl class="irp-facts">
         <div class="irp-fact">
           <dt>Principal Investigators</dt>
-          <dd><a href="https://www.ks.uiuc.edu/~chipot/">Christophe Chipot</a> and Tony Lelièvre</dd>
+          <dd><a href="https://www.ks.uiuc.edu/~chipot/">Christophe Chipot</a> and <a href="https://tony-lelievre.github.io">Tony Lelièvre</a></dd>
         </div>
         <div class="irp-fact">
           <dt>Partners</dt>
@@ -57,7 +57,7 @@ full-width: true
     <div class="irp-network">
       <article class="irp-node">
         <h3>Paris</h3>
-        <p>École Nationale des Ponts et Chaussées, Université Gustave Eiffel, Institut de Biologie Physico-Chimique, École Normale Supérieure and Sorbonne Université.</p>
+        <p>École Nationale des Ponts et Chaussées, Université Gustave Eiffel, Institut de Biologie Physico-Chimique, École Normale Supérieure and Sorbonne Université, with expertise in mathematics, biophysics and chemistry.</p>
       </article>
       <article class="irp-node">
         <h3>Nancy</h3>
