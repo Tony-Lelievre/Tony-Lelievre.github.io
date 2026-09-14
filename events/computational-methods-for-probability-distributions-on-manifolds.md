@@ -60,7 +60,7 @@ The following speakers have confirmed their participation:
 *  <a href="https://chrhee.github.io/" target="_blank">Chang-Han Rhee</a> (Northwestern University)
 *  <a href="https://www.ceremade.dauphine.fr/~rousseau/" target="_blank">Judith Rousseau</a> (Université Paris Dauphine)
 *  <a href="https://sites.google.com/site/robryd/" target="_blank">Robin Ryder</a> (Imperial College London)
-*  <a href="https://giovannisamaey.wordpress.com/" target="_blank">Giovanni Samaey</a> (KU Leuven)
+*  <a href="https://wms.cs.kuleuven.be/people/giovanni-samaey/" target="_blank">Giovanni Samaey</a> (KU Leuven)
 *  <a href="https://www.unige.ch/~vilmart/" target="_blank">Gilles Vilmart</a> (Université de Genève)
 *  <a href="https://sites.google.com/view/cdwalker/home" target="_blank">Christopher Walker</a> (Duke University)
 *  <a href="https://sites.google.com/view/nickwhiteley/" target="_blank">Nick Whiteley</a> (University of Bristol)
