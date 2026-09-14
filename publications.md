@@ -204,8 +204,8 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
   <li>(with N. Champagnat, M. Ramil, J. Reygner, and D. Villemonais) <i>Quasi-stationary distribution for kinetic SDEs with low regularity coefficients</i>, <a href="https://arxiv.org/abs/2410.01042">https://arxiv.org/abs/2410.01042</a>.</li>
   <li>(with N. Blassel and G. Stoltz) <i>Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains</i>, <a href="https://arxiv.org/abs/2501.16082">https://arxiv.org/abs/2501.16082</a>.</li>
   <li>(with T. Pigeon and G. Stoltz) <em>Approximating committor functions: Objective functions and training data sampling</em>, <a href="https://arxiv.org/abs/2607.21425">https://arxiv.org/abs/2607.21425</a>.</li>
-  <li>(with Louis Carillo, Thomas Normand, Gabriel Stoltz, and Urbain Vaes) <em>The narrow escape problem in arbitrary dimension</em>, <a href="https://arxiv.org/abs/2608.02212">https://arxiv.org/abs/2608.02212</a>.</li>
-  <li>(with Louis Carillo, Thomas Normand, and Urbain Vaes) <em>A spectral approach to the narrow escape problem in two-dimensional domains</em>, <a href="https://arxiv.org/abs/2608.05007">https://arxiv.org/abs/2608.05007</a>.</li>
+  <li>(with L. Carillo, T. Normand, G. Stoltz, and U. Vaes) <em>The narrow escape problem in arbitrary dimension</em>, <a href="https://arxiv.org/abs/2608.02212">https://arxiv.org/abs/2608.02212</a>.</li>
+  <li>(with L. Carillo, T. Normand, and U. Vaes) <em>A spectral approach to the narrow escape problem in two-dimensional domains</em>, <a href="https://arxiv.org/abs/2608.05007">https://arxiv.org/abs/2608.05007</a>.</li>
 </ul>
 
 <hr width="80%" />
