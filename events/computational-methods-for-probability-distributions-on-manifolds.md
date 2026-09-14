@@ -8,7 +8,7 @@ cover-img: /assets/images/coriolis5.jpg
 Co-organized wtih <a href="https://kdaudel.github.io/">Kamélia Daudel</a>, 
 <a href="https://sites.google.com/site/pierrejacob/">Pierre E. Jacob</a>,
 <a href="https://www.ceremade.dauphine.fr/~xian/">Christian P. Robert</a> and 
-<a href="https://cermics-lab.enpc.fr/gabriel-stoltz/">Gabriel Stoltz</a>.
+<a href="https://gabrielstoltz.github.io/">Gabriel Stoltz</a>.
 
 #### Aims and scope.
 
@@ -74,11 +74,11 @@ The organizing committee is composed of
    professor of statistics at ESSEC Business School
 *  <a href="https://www.mikolajkasprzak.com/">Mikołaj Kasprzak</a>, 
    assistant professor of statistics and applied probability at ESSEC Business School
-*  <a href="http://cermics.enpc.fr/~lelievre/">Tony Lelièvre</a>,
+*  <a href="https://tony-lelievre.github.io/">Tony Lelièvre</a>,
    professor of applied mathematics at Ecole des Ponts (CERMICS)
 *  <a href="https://www.ceremade.dauphine.fr/~xian/">Christian P Robert</a>, 
    professor of statistics at Université Paris Dauphine-PSL (CEREMADE)
-*  <a href="https://cermics-lab.enpc.fr/gabriel-stoltz/">Gabriel Stoltz</a>, 
+*  <a href="https://gabrielstoltz.github.io/">Gabriel Stoltz</a>,
    professor of applied mathematics at Ecole des Ponts (CERMICS)
 
 #### Funding.
