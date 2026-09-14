@@ -31,7 +31,7 @@ pos&eacute;s par ce type de simulation, on renvoie &agrave; :
 
 *  <a href="http://theses.fr/1998ENPC9827">la th&egrave;se de Jean-Fr&eacute;d&eacute;ric Gerbeau</a>
 *  (avec J-F. Gerbeau, C. Le Bris et N. Ligonesche)
-   <a href="rapports/Metal_pad_rolling.pdf">Metal pad roll instabilities</a>,
+   <a href="/assets/rapports/Metal_pad_rolling.pdf">Metal pad roll instabilities</a>,
    proceeding of the 2002 TMS Annual Meeting and Exhibition.
 *  (avec J-F. Gerbeau et C. Le Bris) Simulations of MHD flows with
    moving interfaces, Journal of Computational Physics, volume 184, pp 163-191, 2003.
@@ -62,7 +62,7 @@ CS 2002</a> d&eacute;cern&eacute; par la soci&eacute;t&eacute;
 <a href="http://www.c-s.fr">Syst&egrave;mes</a> pour notre travail
 sur la mod&eacute;lisation magn&eacute;tohydrodynamique des cuves
 d'&eacute;lectrolyse
-d'aluminium (<a href="rapports/Prix_CS_02.pdf">pdf</a>).
+d'aluminium (<a href="/assets/rapports/Prix_CS_02.pdf">pdf</a>).
 
 ### Quelques r&eacute;sultats :
 

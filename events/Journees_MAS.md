@@ -32,29 +32,29 @@ techniques in molecular dynamics, for example.</p>
 The workshop will consist in four three hour lectures, which will be given by:
 
 * <a href="http://www-wt.iam.uni-bonn.de/%7Ebovier/">Anton Bovier</a> (University of Bonn) 
-  <a href="AB.html"><span style="font-style: italic;">Metastability: a universal approach through potential theory</span></a>
+  <a href="/assets/Journees_MAS/AB.html"><span style="font-style: italic;">Metastability: a universal approach through potential theory</span></a>
 * <a href="http://www.math.univ-toulouse.fr/1-17731-Fiche-professionnelle.php?idFiche=441">Patrick Cattiaux</a>
-  (Université de Toulouse)<a href="PCat.html"><span style="font-style: italic;">Long time behaviour of stochastic processes</span>
+  (Université de Toulouse)<a href="/assets/Journees_MAS/PCat.html"><span style="font-style: italic;">Long time behaviour of stochastic processes</span>
 * <a href="http://www.cpht.polytechnique.fr/spip.php?article37&amp;lang=en">Pierre Collet</a> (Ecole Polytechnique) 
-  <a style="font-style: italic;" href="PC.html">Quasi stationary distributions for stochastic processes and dynamical systems</a>
+  <a style="font-style: italic;" href="/assets/Journees_MAS/PC.html">Quasi stationary distributions for stochastic processes and dynamical systems</a>
 * <a href="http://www.math.umass.edu/%7Elr7q/">Luc Rey-Bellet</a> (University of Massachusetts) 
-  <a style="font-style: italic;" href="LRB.html">Thermodynamics of non-equilibrium steady states, entropy production and fluctuations</a>
+  <a style="font-style: italic;" href="/assets/Journees_MAS/LRB.html">Thermodynamics of non-equilibrium steady states, entropy production and fluctuations</a>
   
 and thirty minute contributed talks.  These are the speakers who confirmed their
-participation: <a href="FB.html">Florent Barret</a> (Ecole Polytechnique), <a
-href="JM.html">Jan Maas</a> (University of Bonn), <a
-href="JBM.html">Jean-Bernard Maillet</a> (CEA), <a href="GM.html">Georg Menz</a>
-(MPI Leipzig), <a href="JCM.html">Jean-Christophe Mourrat</a> (EPFL) and <a
-href="AT.html">Augusto Teixera</a> (ENS Paris).
+participation: <a href="/assets/Journees_MAS/FB.html">Florent Barret</a> (Ecole Polytechnique), <a
+href="/assets/Journees_MAS/JM.html">Jan Maas</a> (University of Bonn), <a
+href="/assets/Journees_MAS/JBM.html">Jean-Bernard Maillet</a> (CEA), <a href="/assets/Journees_MAS/GM.html">Georg Menz</a>
+(MPI Leipzig), <a href="/assets/Journees_MAS/JCM.html">Jean-Christophe Mourrat</a> (EPFL) and <a
+href="/assets/Journees_MAS/AT.html">Augusto Teixera</a> (ENS Paris).
 
 A poster session is planned on thursday, noon. Please send an e-mail to 
 <a href="mailto:lelievre@cermics.enpc.fr">lelievre@cermics.enpc.fr</a> to propose a poster. 
 
-Here is <a href="Liste_Posters.pdf">a preliminary list of the posters</a> which will be presented.
+Here is <a href="/assets/Journees_MAS/Liste_Posters.pdf">a preliminary list of the posters</a> which will be presented.
 
-<a href="Liste_Participants.pdf">List of participants.</a>
+<a href="/assets/Journees_MAS/Liste_Participants.pdf">List of participants.</a>
 
-<a href="Photo_Metastab.JPG"><img style="border: 0px solid ; width: 741px; height: 494px;"
+<a href="/assets/Journees_MAS/Photo_Metastab.JPG"><img style="border: 0px solid ; width: 741px; height: 494px;"
 src="../../assets/Journees_MAS/Photo_Metastab.gif"></a>
 
 #### Registration:
@@ -75,7 +75,7 @@ The workshop will take place at the <a href="http://www.enpc.fr">Ecole des Ponts
 * <a href="http://math.univ-bpclermont.fr/%7Eguillin/">Arnaud Guillin</a> (Université Blaise Pascal)
 * <a href="http://cermics.enpc.fr/%7Elelievre">Tony Lelièvre</a> (Ecole des Ponts ParisTech)
 
-<a href="Affiche.pdf"><img style="border: 0px solid ; width: 296px; height: 420px;" src="../../assets/Journees_MAS/Affiche.gif"></a>
+<a href="/assets/Journees_MAS/Affiche.pdf"><img style="border: 0px solid ; width: 296px; height: 420px;" src="../../assets/Journees_MAS/Affiche.gif"></a>
 
 #### This meeting is supported by:
 

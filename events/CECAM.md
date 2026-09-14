@@ -40,8 +40,8 @@ Link to the CECAM webpage of the conference:
 
 #### Program and list of participants:
 
-* The program is <a href="Programme.pdf">here</a>.
-* <a href="title_abstract.pdf">List of abstracts.</a>
+* The program is <a href="/assets/CECAM/Programme.pdf">here</a>.
+* <a href="/assets/CECAM/title_abstract.pdf">List of abstracts.</a>
 * Slides of some talks: 
 <a href="M_Athenes.pdf">M. Athènes</a>, 
 <a href="R_Elber.pdf">R. Elber</a>, 
@@ -62,11 +62,11 @@ L. Maragliano <a href="L_Maragliano_1.pdf">part 1</a> and <a href="L_Maragliano_
 
 * There will be a poster session on Wednesday afternoon. Please send an e-mail to lelievre@cermics.enpc.fr to propose a poster.
 
-* <a href="Posters.pdf">List of posters.
+* <a href="/assets/CECAM/Posters.pdf">List of posters.
 
-* <a href="Liste_Participants.pdf">List of participants.</a>
+* <a href="/assets/CECAM/Liste_Participants.pdf">List of participants.</a>
 
-* <a href="photo_CECAM.JPG"><img width="400" src="../../assets/CECAM/photo_CECAM_low.jpg"></a>
+* <a href="/assets/CECAM/photo_CECAM.JPG"><img width="400" src="../../assets/CECAM/photo_CECAM_low.jpg"></a>
 
 <!-------------- ACCOMODATION ------------------------->
 #### Location:

@@ -8,7 +8,7 @@ cover-img: /assets/images/coriolis3.jpg
 #### 22 Juillet 2013 - 30 Août 2013
 
 <center>
-<a href="Affiche-Cemracs.pdf"><img style="border: 0px solid ; width: 303px; height: 422px;" alt="" src="../../assets/CEMRACS/Affiche-Cemracs.gif"></a>
+<a href="/assets/CEMRACS/Affiche-Cemracs.pdf"><img style="border: 0px solid ; width: 303px; height: 422px;" alt="" src="../../assets/CEMRACS/Affiche-Cemracs.gif"></a>
 </center>
 
 The <a href="http://smai.emath.fr/cemracs/cemracs13/">official website is now opened</a>. More details on the projects and the registration procedure there.
