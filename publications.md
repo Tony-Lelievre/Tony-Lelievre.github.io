@@ -155,9 +155,9 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
  	<li>(with R. Santet and G. Stoltz) <i>Improving sampling by modifying the effective diffusion</i>, Journal of Computational Physics, <strong><span class="anchor-text-container"><span class="anchor-text">541</span></span></strong>, 114313, (2025).</li>
  	<li>(with M. Chak, G. Stoltz, and U. Vaes) <i>Optimal importance sampling for overdamped Langevin dynamics</i>, Bernoulli,  <strong>32</strong>(3): 1827-1852, (2026).</li>
   <li>(with N. Blassel and G. Stoltz) <i>Shape optimization of metastable states,</i> Mathematical Models and Methods in Applied Sciences, <strong>36</strong>(11), 2397-2475 (2026).</li>
-	<li>(with N. Blassel and G. Stoltz) <i>Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains</i>, Journal de Mathématiques Pures et Appliquées, <strong>216</strong>, 103996, (2026).</li>
  	<li>(with X. Lin and P. Monmarché) <i>Convergence rates for an Adaptive Biasing Potential scheme from a Wasserstein optimization perspective</i>, Nonlinearity, <strong>39</strong>(4), 045016, (2026).</li>
  	<li>(with D. Carbone, M. Gabrié, and C. Schönle) <em>Efficient Monte-Carlo sampling of metastable systems using non-local collective variable updates</em>, Journal of Chemical Physics, <strong>164</strong>(15), 154107, (2026).</li>
+	<li>(with N. Blassel and G. Stoltz) <i>Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains</i>, Journal de Mathématiques Pures et Appliquées, <strong>216</strong>, 103996, (2026).</li>
   <li>(with N. Champagnat, M. Ramil, J. Reygner, and D. Villemonais) <i>Quasi-stationary distribution for kinetic SDEs with low regularity coefficients</i>, <a href="https://arxiv.org/abs/2410.01042">https://arxiv.org/abs/2410.01042</a>. To appear in Stochastic Processes and their Applications.</li>
 </ul>
 
