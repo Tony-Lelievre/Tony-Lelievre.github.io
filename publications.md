@@ -155,6 +155,7 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
  	<li>(with R. Santet and G. Stoltz) <i>Improving sampling by modifying the effective diffusion</i>, Journal of Computational Physics, <strong><span class="anchor-text-container"><span class="anchor-text">541</span></span></strong>, 114313, (2025).</li>
  	<li>(with M. Chak, G. Stoltz, and U. Vaes) <i>Optimal importance sampling for overdamped Langevin dynamics</i>, Bernoulli,  <strong>32</strong>(3): 1827-1852, (2026).</li>
   <li>(with N. Blassel and G. Stoltz) <i>Shape optimization of metastable states,</i> Mathematical Models and Methods in Applied Sciences, <strong>36</strong>(11), 2397-2475 (2026).</li>
+	<li>(with N. Blassel and G. Stoltz) <i>Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains</i>, Journal de Mathématiques Pures et Appliquées, <strong>216</strong>, 103996, (2026).</li>
  	<li>(with X. Lin and P. Monmarché) <i>Convergence rates for an Adaptive Biasing Potential scheme from a Wasserstein optimization perspective</i>, Nonlinearity, <strong>39</strong>(4), 045016, (2026).</li>
  	<li>(with D. Carbone, M. Gabrié, and C. Schönle) <em>Efficient Monte-Carlo sampling of metastable systems using non-local collective variable updates</em>, Journal of Chemical Physics, <strong>164</strong>(15), 154107, (2026).</li>
   <li>(with N. Champagnat, M. Ramil, J. Reygner, and D. Villemonais) <i>Quasi-stationary distribution for kinetic SDEs with low regularity coefficients</i>, <a href="https://arxiv.org/abs/2410.01042">https://arxiv.org/abs/2410.01042</a>. To appear in Stochastic Processes and their Applications.</li>
@@ -202,7 +203,6 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
 
 <ul>
   <li>(with M. Rachid and G. Stoltz) <i>A spectral approach to the narrow escape problem in the disk,</i> <a href="https://arxiv.org/abs/2401.06903">https://arxiv.org/abs/2401.06903</a>.</li>
-  <li>(with N. Blassel and G. Stoltz) <i>Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains</i>, <a href="https://arxiv.org/abs/2501.16082">https://arxiv.org/abs/2501.16082</a>.</li>
   <li>(with T. Pigeon and G. Stoltz) <em>Approximating committor functions: Objective functions and training data sampling</em>, <a href="https://arxiv.org/abs/2607.21425">https://arxiv.org/abs/2607.21425</a>.</li>
   <li>(with L. Carillo, T. Normand, G. Stoltz, and U. Vaes) <em>The narrow escape problem in arbitrary dimension</em>, <a href="https://arxiv.org/abs/2608.02212">https://arxiv.org/abs/2608.02212</a>.</li>
   <li>(with L. Carillo, T. Normand, and U. Vaes) <em>A spectral approach to the narrow escape problem in two-dimensional domains</em>, <a href="https://arxiv.org/abs/2608.05007">https://arxiv.org/abs/2608.05007</a>.</li>
