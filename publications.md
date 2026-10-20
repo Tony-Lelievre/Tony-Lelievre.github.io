@@ -159,6 +159,7 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
  	<li>(with D. Carbone, M. Gabrié, and C. Schönle) <em>Efficient Monte-Carlo sampling of metastable systems using non-local collective variable updates</em>, Journal of Chemical Physics, <strong>164</strong>(15), 154107, (2026).</li>
 	<li>(with N. Blassel and G. Stoltz) <i>Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains</i>, Journal de Mathématiques Pures et Appliquées, <strong>216</strong>, 103996, (2026).</li>
   <li>(with N. Champagnat, M. Ramil, J. Reygner, and D. Villemonais) <i>Quasi-stationary distribution for kinetic SDEs with low regularity coefficients</i>, <a href="https://arxiv.org/abs/2410.01042">https://arxiv.org/abs/2410.01042</a>. To appear in Stochastic Processes and their Applications.</li>
+  <li>(with T. Pigeon and G. Stoltz) <em>Approximating committor functions: Objective functions and training data sampling</em>, <a href="https://arxiv.org/abs/2607.21425">https://arxiv.org/abs/2607.21425</a>. To appear in Journal of Chemical Physics.</li>
 </ul>
 
 <hr width="80%" />
@@ -203,7 +204,6 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
 
 <ul>
   <li>(with M. Rachid and G. Stoltz) <i>A spectral approach to the narrow escape problem in the disk,</i> <a href="https://arxiv.org/abs/2401.06903">https://arxiv.org/abs/2401.06903</a>.</li>
-  <li>(with T. Pigeon and G. Stoltz) <em>Approximating committor functions: Objective functions and training data sampling</em>, <a href="https://arxiv.org/abs/2607.21425">https://arxiv.org/abs/2607.21425</a>.</li>
   <li>(with L. Carillo, T. Normand, G. Stoltz, and U. Vaes) <em>The narrow escape problem in arbitrary dimension</em>, <a href="https://arxiv.org/abs/2608.02212">https://arxiv.org/abs/2608.02212</a>.</li>
   <li>(with L. Carillo, T. Normand, and U. Vaes) <em>A spectral approach to the narrow escape problem in two-dimensional domains</em>, <a href="https://arxiv.org/abs/2608.05007">https://arxiv.org/abs/2608.05007</a>.</li>
 </ul>
