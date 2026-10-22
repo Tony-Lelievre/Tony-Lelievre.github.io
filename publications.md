@@ -158,7 +158,7 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
  	<li>(with X. Lin and P. Monmarché) <i>Convergence rates for an Adaptive Biasing Potential scheme from a Wasserstein optimization perspective</i>, Nonlinearity, <strong>39</strong>(4), 045016, (2026).</li>
  	<li>(with D. Carbone, M. Gabrié, and C. Schönle) <em>Efficient Monte-Carlo sampling of metastable systems using non-local collective variable updates</em>, Journal of Chemical Physics, <strong>164</strong>(15), 154107, (2026).</li>
 	<li>(with N. Blassel and G. Stoltz) <i>Quantitative low-temperature spectral asymptotics for reversible diffusions in temperature-dependent domains</i>, Journal de Mathématiques Pures et Appliquées, <strong>216</strong>, 103996, (2026).</li>
-  <li>(with N. Champagnat, M. Ramil, J. Reygner, and D. Villemonais) <i>Quasi-stationary distribution for kinetic SDEs with low regularity coefficients</i>, <a href="https://arxiv.org/abs/2410.01042">https://arxiv.org/abs/2410.01042</a>. To appear in Stochastic Processes and their Applications.</li>
+  <li>(with N. Champagnat, M. Ramil, J. Reygner, and D. Villemonais) <i>Quasi-stationary distribution for kinetic SDEs with low regularity coefficients</i>, Stochastic Processes and their Applications, <strong>203</strong>, 105121, (2027).</li>
   <li>(with T. Pigeon and G. Stoltz) <em>Approximating committor functions: Objective functions and training data sampling</em>, <a href="https://arxiv.org/abs/2607.21425">https://arxiv.org/abs/2607.21425</a>. To appear in Journal of Chemical Physics.</li>
 </ul>
 
