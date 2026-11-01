@@ -206,4 +206,5 @@ Numerical Mathematics and Scientific Computation, Oxford University Press, 2006.
   <li>(with M. Rachid and G. Stoltz) <i>A spectral approach to the narrow escape problem in the disk,</i> <a href="https://arxiv.org/abs/2401.06903">https://arxiv.org/abs/2401.06903</a>.</li>
   <li>(with L. Carillo, T. Normand, G. Stoltz, and U. Vaes) <em>The narrow escape problem in arbitrary dimension</em>, <a href="https://arxiv.org/abs/2608.02212">https://arxiv.org/abs/2608.02212</a>.</li>
   <li>(with L. Carillo, T. Normand, and U. Vaes) <em>A spectral approach to the narrow escape problem in two-dimensional domains</em>, <a href="https://arxiv.org/abs/2608.05007">https://arxiv.org/abs/2608.05007</a>.</li>
+  <li>(with L. Delande, B. Nectoux, and T. Normand) <em>The two-dimensional narrow escape problem with deterministic initial condition: Mean escape time and escape location probabilities</em>, <a href="https://arxiv.org/abs/2610.32829">https://arxiv.org/abs/2610.32829</a>.</li>
 </ul>
